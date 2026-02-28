@@ -83,3 +83,8 @@ CREATE DATABASE equipment_db;
 - dotenv
 - cors
 - nodemon (dev dependency)
+
+## Frontend
+- axios
+- tailwindcss
+- shadcn/ui
