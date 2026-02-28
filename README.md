@@ -75,3 +75,11 @@ CREATE DATABASE equipment_db;
 
  - POST /api/equipment/:id/maintenance
 - GET /api/equipment/:id/maintenance
+
+# 6️⃣ Additional Libraries Used
+## Backend
+- express
+- pg
+- dotenv
+- cors
+- nodemon (dev dependency)
