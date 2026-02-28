@@ -65,6 +65,7 @@ CREATE DATABASE equipment_db;
 
 ### frontend runs at:
 ```http://localhost:5173```
+
 # 5️⃣ REST API Endpoints
  ## Equipment
  - GET /api/equipment
@@ -88,3 +89,6 @@ CREATE DATABASE equipment_db;
 - axios
 - tailwindcss
 - shadcn/ui
+# 7 Setup .env at Backend
+- PORT
+- DATABASE_URL
