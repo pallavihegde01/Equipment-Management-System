@@ -39,3 +39,30 @@ CREATE DATABASE equipment_db;
 
 ### Step 2: Navigate to db folder
 ```cd db```
+
+# 3️⃣ Backend Setup
+### Navigate to backend folder
+```cd backend```
+
+### Install dependencies
+```npm install```
+
+### Run backend server
+```npm run dev```
+
+### Backend runs at:
+```http://localhost:5000```
+
+# 3️⃣ Frontend Setup
+### Navigate to frontend folder
+```cd backend```
+
+### Install dependencies
+```npm install```
+
+### Run frontend server
+```npm run dev```
+
+### frontend runs at:
+```http://localhost:5173```
+
