@@ -35,3 +35,7 @@ Frontend:
 
 ```sql
 CREATE DATABASE equipment_db;
+```
+
+### Step 2: Navigate to db folder
+```cd db```
