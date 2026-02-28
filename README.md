@@ -53,7 +53,7 @@ CREATE DATABASE equipment_db;
 ### Backend runs at:
 ```http://localhost:5000```
 
-# 3️⃣ Frontend Setup
+# 4️⃣ Frontend Setup
 ### Navigate to frontend folder
 ```cd backend```
 
@@ -65,4 +65,13 @@ CREATE DATABASE equipment_db;
 
 ### frontend runs at:
 ```http://localhost:5173```
+# 5️⃣ REST API Endpoints
+ ## Equipment
+ - GET /api/equipment
+- POST /api/equipment
+- PUT /api/equipment/:id
+- DELETE /api/equipment/:id
+ ## Maintenance
 
+ - POST /api/equipment/:id/maintenance
+- GET /api/equipment/:id/maintenance
